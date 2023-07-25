@@ -1,0 +1,9 @@
+Tugas : Membuat aplikasi sederhana yang berisi tombol dan menu seperti program game tictac atau puzzle ABC
+
+Outcome/Capaian Pelatihan
+- Mempraktikkan cara menyesuaikan desain ukuran tombol atau menu dengan ukuran 
+form aplikasi
+- Mampu menyesuaikan ukuran tombol atau menu dengan ukuran form aplikasi sesuai
+dengan kebutuhan aplikasi.
+- Dapat menjelaskan desain ukuran tombol atau menu disesuaikan dengan ukuran form
+aplikasi dibuat sesuai dengan kebutuhan aplikasi. 

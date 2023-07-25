@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">task3</string>
+    <string name="masukan_email">Masukan Email</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="logo_aplikasi">Logo aplikasi</string>
+</resources>

@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color background
+color black
+color coklat
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnCreateFile
+id btnDeleteFile
+id btnEditFile
+id btnReadFile
+id tvRead
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string create_file
+string delete_file
+string edit_file
+string hasil_baca_file
+string read_file
+style Theme.Latihan1
+xml backup_rules
+xml data_extraction_rules

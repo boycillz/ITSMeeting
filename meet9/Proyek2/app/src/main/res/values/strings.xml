@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Proyek 2</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="input_nama_negara">Input Nama Negara</string>
+    <string name="submit">submit</string>
+    <string name="logo_dts">Logo DTS</string>
+</resources>

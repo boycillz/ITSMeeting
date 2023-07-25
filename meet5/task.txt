@@ -1,0 +1,7 @@
+Tugas : 
+Merancang user interface dengan alat bantu prototype sesuai dengan spesifikasi projek yang diberikan. 
+
+1. Menggunakan Aplikasi Pencil untuk Mockup 
+2. Design Mockup Aplikasi Input Nama
+3. Design Mockup Aplikasi Kalkulator
+4. Design Mockup Aplikasi List View

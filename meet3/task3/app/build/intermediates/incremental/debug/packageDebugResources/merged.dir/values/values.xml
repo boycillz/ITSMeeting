@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">task3</string>
+    <string name="email">Email</string>
+    <string name="login">LOGIN</string>
+    <string name="logo_aplikasi">Logo aplikasi</string>
+    <string name="masukan_email">Masukan Email</string>
+    <style name="Base.Theme.Task3" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Task3" parent="Base.Theme.Task3"/>
+</resources>

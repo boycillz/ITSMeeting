@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\ehefi\\.gradle\\daemon\\7.5\\com.boycillz.sqliteapp-mergeDebugResources-28:\\layout\\content_main.xml",
+        "source": "C:\\Users\\ehefi\\.gradle\\daemon\\7.5\\com.boycillz.sqliteapp-main-31:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ehefi\\.gradle\\daemon\\7.5\\com.boycillz.sqliteapp-mergeDebugResources-28:\\layout\\activity_add_edit.xml",
+        "source": "C:\\Users\\ehefi\\.gradle\\daemon\\7.5\\com.boycillz.sqliteapp-main-31:\\layout\\activity_add_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ehefi\\.gradle\\daemon\\7.5\\com.boycillz.sqliteapp-mergeDebugResources-28:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ehefi\\.gradle\\daemon\\7.5\\com.boycillz.sqliteapp-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.boycillz.sqliteapp-mergeDebugResources-28:/layout/list_row.xml",
+        "source": "com.boycillz.sqliteapp-main-31:/layout/list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\ehefi\\.gradle\\daemon\\7.5\\com.boycillz.sqliteapp-mergeDebugResources-28:\\layout\\list_row.xml",
+        "source": "C:\\Users\\ehefi\\.gradle\\daemon\\7.5\\com.boycillz.sqliteapp-main-31:\\layout\\list_row.xml"
+    }
+]

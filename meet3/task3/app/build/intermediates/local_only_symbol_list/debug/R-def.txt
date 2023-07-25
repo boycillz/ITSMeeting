@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id EdtEmail
+id LogoLogin
+id btnLogin
+id editTextText
+id editTextText2
+id textView
+id textView5
+id textView6
+id textView7
+id tvEmail
+id tvLogin
+id tvPassword
+layout activity_main
+layout activity_register
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string email
+string login
+string logo_aplikasi
+string masukan_email
+style Base.Theme.Task3
+style Theme.Task3
+xml backup_rules
+xml data_extraction_rules

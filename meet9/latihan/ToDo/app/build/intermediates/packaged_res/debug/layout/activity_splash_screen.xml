@@ -1,0 +1,17 @@
+<!-- activity_splash.xml -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Tambahkan gambar atau logo splash screen -->
+    <ImageView
+        android:id="@+id/splashImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        android:layout_centerInParent="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/kominfo" />
+
+
+</RelativeLayout>

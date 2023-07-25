@@ -1,0 +1,14 @@
+siapkan 
+sqlite
+table database
+view database
+penyimpanan storage
+
+koding live ujian,,,
+
+mengatur tampilan
+koneksi activity => xml
+fungsi2
+storage file,,
+mysqlite
+

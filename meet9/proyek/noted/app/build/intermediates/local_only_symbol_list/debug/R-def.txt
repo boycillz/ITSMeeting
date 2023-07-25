@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color hijau_grey
+color hijau_pias
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_clock
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id buttonAdd
+id editTextTask
+id recyclerViewTasks
+id textInputLayoutTask
+id textViewDateTime
+id textViewDescription
+id textViewTitle
+layout activity_main
+layout item_task
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Noted
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,3 @@
+com.boycillz.sqliteapp.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

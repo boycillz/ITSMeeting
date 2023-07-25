@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable kominfo
+id action_tambah
+id btnSimpan
+id etContent
+id etFileName
+id ivSplashScreen
+id lv
+id toolbar
+id tvSplashScreen
+layout activity_insert_and_view
+layout activity_main
+layout activity_splash_screen
+menu menu
+mipmap ic_add_black
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string catatan
+string nama_file
+style Theme.Proyek11
+xml backup_rules
+xml data_extraction_rules

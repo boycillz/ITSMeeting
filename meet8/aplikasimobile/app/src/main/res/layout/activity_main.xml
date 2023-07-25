@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    tools:context=".MainActivity">
+
+
+    <EditText
+        android:id="@+id/txtNama"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:hint="@string/Lbl_nama"
+        android:inputType="none" />
+
+    <Button
+        android:id="@+id/BtnTammpil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtNama"
+        android:layout_centerInParent="true"
+        android:onClick="TampilNama"
+        android:text="@string/tampilkan" />
+
+    <TextView
+        android:id="@+id/label2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/BtnTammpil"
+        android:layout_marginTop="32dp"
+        android:gravity="center"
+        android:padding="5dp"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Lbl_nama"
+        android:layout_below="@id/BtnTammpil"
+        android:textSize="14sp"
+        android:layout_marginTop="16dp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

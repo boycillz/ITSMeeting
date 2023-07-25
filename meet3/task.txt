@@ -1,0 +1,3 @@
+Tugas : 
+1. Membuat rancangan antarmuka aplikasi sederhana dengan menggunakan tools Pencil
+2. Mengimplementasikan antarmuka aplikasi sederhana dengan xml pada project android

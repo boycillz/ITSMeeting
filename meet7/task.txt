@@ -1,0 +1,7 @@
+Tugas : 
+Membuat aplikasi mobile sederhana dengan alat bantu yang telah diinstalasi sebelumnya sesuai 
+dengan spesifikasi projek yang diberikan. 
+
+1. Aplikasi Input Nama
+2. Aplikasi Kalkulator
+3. Aplikasi List View
